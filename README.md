@@ -1,14 +1,15 @@
-Hi! I'm Christian and I'm a Junior FullStack Engineer. Here's a little about me:
+Hi! I'm Christian and I'm a Junior Full Stack Engineer. Here's a little about me:
 
-[![Linkedin: Christian](https://img.shields.io/badge/-Christian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/christian-martin-roffey/)((https://www.linkedin.com/in/christian-martin-roffey/))
-
+[![Linkedin: Christian](https://img.shields.io/badge/-Christian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-martin-roffey/)](https://www.linkedin.com/in/christian-martin-roffey/)
 ---
 
-- 🔭 I’m currently working as **Sr. Software Engineer @ Tech9**
-- 🌱 I’m currently learning **Python - Blockchain**
+- 🔭 I’m currently looking for Full Stack, Frontend and/or Backend opportunities.
+- 🌱 I’m currently learning **Python, React, Javascript, Flutter **
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 📫 How to reach me:
   **[Email](), [Website]()**
+  
+- Favorite work: ![Chore Manager](https://chore-manager-app.herokuapp.com/)
 
 Here are some stats about my contributions:
 
