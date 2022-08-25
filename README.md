@@ -3,13 +3,13 @@ Hi! I'm Christian and I'm a Junior Full Stack Engineer. Here's a little about me
 [![Linkedin: Christian](https://img.shields.io/badge/-Christian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-martin-roffey/)](https://www.linkedin.com/in/christian-martin-roffey/)
 ---
 
-- 🔭 I’m currently looking for Full Stack, Frontend and/or Backend opportunities.
-- 🌱 I’m currently learning **Python, React, Javascript, Flutter **
+- 🔭 I completed the 4Geeks Full Stack Engineer course. I’m currently looking for Full Stack, Frontend and/or Backend opportunities.
+- 🌱 I’m currently learning **Python & React **
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 📫 How to reach me:
-  **[Email](), [Website]()**
+  **[Email](mailto:c.martinroffey@gmail.com), [Website](Coming Soon!)**
   
-- ⭐ Favorite work: [Chore Manager](https://chore-manager-app.herokuapp.com/)
+- ⭐ Final Project: [Chore Manager](https://chore-manager-app.herokuapp.com/)
 
 Here are some stats about my contributions:
 
