@@ -1,4 +1,4 @@
-Hi! I'm Christian and I'm a Junior Full Stack Engineer. Here's a little about me:
+Hi! I'm Christian and I'm a Full Stack Engineer. Here's a little about me:
 
 [![Linkedin: Christian](https://img.shields.io/badge/-Christian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-martin-roffey/)](https://www.linkedin.com/in/christian-martin-roffey/)
 ---
