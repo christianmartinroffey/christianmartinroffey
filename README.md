@@ -1,8 +1,7 @@
-Hi! I'm Christian
+Hi! I'm Christian and I'm a Junior FullStack Engineer.
 
 
-src="https://github-stats-alpha.vercel.app/api?username=christianmartinroffey"
-
+Here are some stats about my contributions:
 
 ![christianmartinroffey's Stats](https://github-readme-stats.vercel.app/api?username=christianmartinroffey&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
