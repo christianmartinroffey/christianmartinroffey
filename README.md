@@ -9,7 +9,7 @@ Hi! I'm Christian and I'm a Junior Full Stack Engineer. Here's a little about me
 - 📫 How to reach me:
   **[Email](), [Website]()**
   
-- Favorite work: ![Chore Manager] (https://chore-manager-app.herokuapp.com/cleaninglogo.png(https://chore-manager-app.herokuapp.com/)
+- Favorite work: [![Chore Manager](https://chore-manager-app.herokuapp.com/cleaninglogo.pngk)](https://chore-manager-app.herokuapp.com/)
 
 Here are some stats about my contributions:
 
