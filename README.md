@@ -1,6 +1,6 @@
 Hi! I'm Christian and I'm a Junior FullStack Engineer. Here's a little about me:
 
-[![Linkedin: Christian](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/christian-martin-roffey/)]([https://www.linkedin.com/in/ghazi-khan/](https://www.linkedin.com/in/christian-martin-roffey/))
+[![Linkedin: Christian](https://img.shields.io/badge/-Christian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/christian-martin-roffey/)]([https://https://www.linkedin.com/in/christian-martin-roffey/](https://www.linkedin.com/in/christian-martin-roffey/))
 
 ---
 
