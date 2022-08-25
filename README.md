@@ -1,5 +1,14 @@
-Hi! I'm Christian and I'm a Junior FullStack Engineer.
+Hi! I'm Christian and I'm a Junior FullStack Engineer. Here's a little about me:
 
+[![Linkedin: Christian](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/christian-martin-roffey/)]([https://www.linkedin.com/in/ghazi-khan/](https://www.linkedin.com/in/christian-martin-roffey/))
+
+---
+
+- 🔭 I’m currently working as **Sr. Software Engineer @ Tech9**
+- 🌱 I’m currently learning **Python - Blockchain**
+- 👯 I’m looking to collaborate on open source/commercial projects
+- 📫 How to reach me:
+  **[Email](), [Website]()**
 
 Here are some stats about my contributions:
 
