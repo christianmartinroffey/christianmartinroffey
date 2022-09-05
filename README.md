@@ -1,7 +1,5 @@
 Hi! I'm Christian and I'm a Full Stack Engineer. Here's a little about me:
 
-[![Linkedin: Christian](https://img.shields.io/badge/-Christian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-martin-roffey/)](https://www.linkedin.com/in/christian-martin-roffey/)
----
 
 - 🔭 I completed the 4Geeks Full Stack Engineer course. I’m currently looking for Full Stack, Frontend and/or Backend opportunities.
   - ⭐ Final Project: [Chore Manager](https://chore-manager-app.herokuapp.com/)
@@ -12,6 +10,10 @@ Hi! I'm Christian and I'm a Full Stack Engineer. Here's a little about me:
   **[Email](mailto:c.martinroffey@gmail.com), [Website](Coming Soon!)**
   
 
+
+###Connect with me:
+
+[![Linkedin: Christian](https://img.shields.io/badge/-Christian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-martin-roffey/)](https://www.linkedin.com/in/christian-martin-roffey/)
 
 Here are some stats about my contributions:
 
