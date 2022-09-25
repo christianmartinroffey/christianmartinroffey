@@ -8,7 +8,7 @@ Here's a little about me:
 - 🌱 I’m currently learning **Python & React **
 - 👯 I’m looking to collaborate on open source/commercial projects.
 - ⚡ Fun fact: I'm an elite-level CrossFit Competitor.
-- 📫 How to reach me: [Email](mailto:c.martinroffey@gmail.com), [LinkedIn](c.martinroffey@gmail.com](https://www.linkedin.com/in/christian-martin-roffey/)
+- 📫 How to reach me: [Email](mailto:c.martinroffey@gmail.com), [LinkedIn](https://www.linkedin.com/in/christian-martin-roffey/)
 - Take a better look at my profile and expertise here: [Website 🌐](https://christian-mr-portfolio.herokuapp.com/)
   
 ### Languages and Tools:
