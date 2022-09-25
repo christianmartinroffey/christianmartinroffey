@@ -33,19 +33,19 @@ Here's a little about me:
 
 [![Linkedin: Christian](https://img.shields.io/badge/-Christian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-martin-roffey/)](https://www.linkedin.com/in/christian-martin-roffey/)
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+<!--<details>
+  <summary>:zap: Recent GitHub Activity</summary> 
   
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-</details>
+</details> -->
 
-<details>
+
 <summary>:zap: GitHub Stats</summary>
 
 ![christianmartinroffey's Stats](https://github-readme-stats.vercel.app/api?username=christianmartinroffey&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![christianmartinroffey's Streak](https://github-readme-streak-stats.herokuapp.com/?user=christianmartinroffey&theme=vue-dark&hide_border=true)
 ![christianmartinroffey's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christianmartinroffey&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
- </details>
+
