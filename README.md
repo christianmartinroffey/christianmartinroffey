@@ -3,9 +3,9 @@
 Here's a little about me:
 
 
-- 🔭 I completed the 4Geeks Full Stack Engineer course. I’m currently looking for Full Stack, Frontend and/or Backend opportunities.
+- 🔭 Currently a Junior Software Engineer @ Usizy
   - ⭐ Final Project: [Chore Manager](https://chore-manager-app.herokuapp.com/)
-- 🌱 I’m currently learning **Python & React **
+- 🌱 I’m currently learning **Python & Django **
 - 👯 I’m looking to collaborate on open source/commercial projects.
 - ⚡ Fun fact: I'm an elite-level CrossFit Competitor.
 - 📫 How to reach me: [Email](mailto:c.martinroffey@gmail.com), [LinkedIn](https://www.linkedin.com/in/christian-martin-roffey/)
