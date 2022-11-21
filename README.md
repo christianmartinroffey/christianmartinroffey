@@ -4,6 +4,7 @@ Here's a little about me:
 
 
 - 🔭 Currently a Junior Software Engineer @ Usizy
+- 4Geeks Academy graduate
   - ⭐ Final Project: [Chore Manager](https://chore-manager-app.herokuapp.com/)
 - 🌱 I’m currently learning **Python & Django **
 - 👯 I’m looking to collaborate on open source/commercial projects.
