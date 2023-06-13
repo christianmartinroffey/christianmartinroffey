@@ -3,7 +3,7 @@
 Here's a little about me:
 
 
-- 🔭 Currently a Back End Developer @ [FidelTour] (https://www.fideltour.com/es-es/crm-hoteles)
+- 🔭 Currently a Back End Developer @ [FidelTour](https://www.fideltour.com/es-es/crm-hoteles)
 - 4Geeks Academy graduate
   - ⭐ Final Project: [Chore Manager](https://chore-manager-app.herokuapp.com/)
 - 🌱 I’m currently learning **Python & Django **
