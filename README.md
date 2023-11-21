@@ -7,7 +7,7 @@ Here's a little about me:
 - 4Geeks Academy graduate
   - ⭐ Final Project: [Chore Manager](https://chore-manager-app.herokuapp.com/)
 - 🌱 **Python & Django **
-- 👯 I’m looking to collaborate on open source/commercial projects.
+- 👯 I’m learning object detection and machine learning with tensorflow and mediapipe
 - ⚡ Fun fact: I'm an elite-level CrossFit Competitor.
 - 📫 How to reach me: [Email](mailto:c.martinroffey@gmail.com), [LinkedIn](https://www.linkedin.com/in/christian-martin-roffey/)
 - Take a better look at my profile and expertise here: [Website 🌐](https://cmr-personal-site.onrender.com/)
