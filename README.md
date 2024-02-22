@@ -6,10 +6,9 @@ Here's a little about me:
 - 🔭 Back End Developer @ [FidelTour](https://www.fideltour.com/es-es/crm-hoteles)
   - I do some front too!
 - 4Geeks Academy graduate
-  - ⭐ Final Project: [Chore Manager](https://chore-manager-app.herokuapp.com/)
 - 🌱 **Python & Django **
 - 👯 I’m learning object detection and machine learning with tensorflow and mediapipe
-- ⚡ Fun fact: I'm an elite-level CrossFit Competitor.
+- ⚡ Fun fact: I've competed at the elite level in CrossFit.
 - 📫 How to reach me: [Email](mailto:c.martinroffey@gmail.com), [LinkedIn](https://www.linkedin.com/in/christian-martin-roffey/)
 - Take a better look at my profile and expertise here: [Website 🌐](https://cmr-personal-site.onrender.com/)
   
