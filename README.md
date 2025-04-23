@@ -4,7 +4,6 @@ Here's a little about me:
 
 
 - 🔭 Full Stack Developer @ [Teksystems](https://www.teksystems.com/en/)
-  - I do some front too!
 - 4Geeks Academy graduate
 - 🌱 ** Python & Django **
 - 👯 I’m learning object detection and machine learning with tensorflow and mediapipe
